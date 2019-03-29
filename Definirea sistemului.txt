@@ -1,0 +1,29 @@
+Definire sistem:
+	1.Clase:
+		Admitere
+		Adresa
+		Candidat
+		Cladire
+		Corector(derivat din Persoana)
+		EntityManager
+		Examen
+		Facultate
+		Persoana
+		Problema 
+		Sala
+		Sectie
+		Subiect
+		Supraveghetor(derivat din Persoana)
+		Universitate
+	2.Metode(nu toate implementate deocamdata):
+		Adaugare candidat
+		Adaugare sectie
+		Adaugare facultate
+		Adaugare examen
+		Adaugare subiect
+		Adaugare problema
+		Afisare Lista Repartizari
+		Gasire rezultat dupa nume
+		Afisare Rezultate
+		Gasire adresa sala
+		
